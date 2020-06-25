@@ -9,6 +9,7 @@ This project provides an efficient, easy low, cost way to detect and alert the d
 * Alerting the driver or slowing down the car if blink rate is found greater than his normal blink rate using buzzer and LED.
 ## Circuit Diagram
  ![circuit](https://raw.githubusercontent.com/amrathesh/Drowsiness-Detector-for-Driver-safety/master/circuit.png?token=ALTDEPZU5YWMQMETDSTSHS26TMUEU)
+ ![breadbrd_ckt](https://raw.githubusercontent.com/amrathesh/Drowsiness-Detector-for-Driver-safety/master/breadbrd_circuit.jpg)
 ## Future Scope
 This project can be further upgraded with providing GPS tracker along with GSM module to provide the details of the driver and his location as soon after detection of any crash using crash detector.
 Even the drivers can be provided with some entertainment options when there is detection of drowsiness.
