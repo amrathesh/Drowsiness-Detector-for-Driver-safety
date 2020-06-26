@@ -1,3 +1,5 @@
+![License](https://img.shields.io/github/license/amrathesh/Drowsiness-Detector-for-Driver-safety)
+
 ## Drowsiness-Detector-for-Driver-safety
 Driver Drowsiness detection by monitoring his  blink rate using IR sensors
 
